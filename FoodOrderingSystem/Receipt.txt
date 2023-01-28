@@ -1,0 +1,41 @@
+
+
+
+       DATA STRUCTURES RESTAURANT               
+ORDER #1
+TELEPHONE: 03-597873
+------------------------------------------
+STAFF : Samer
+Date :26/01/2023 20:53:40
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Soft Drinks                        4.0$
+Ice Cream                          4.0$
+Samer Special                      1.0$
+------------------------------------------
+NUMBER OF ITEMS: 3
+------------------------------------------
+TOTAL:                             9.0$
+
+
+
+       DATA STRUCTURES RESTAURANT               
+ORDER #2
+TELEPHONE: 03-597873
+------------------------------------------
+STAFF : Samer
+Date :26/01/2023 20:55:34
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Muffins                            6.0$
+Ice tea                            4.5$
+Ice Cream                          4.0$
+Zinger burger                      5.0$
+------------------------------------------
+TOPPINGD ADDED                     AMOUNT
+BEEF                               3.0$
+CHEDDAR                            1.5$
+------------------------------------------
+NUMBER OF ITEMS: 4
+------------------------------------------
+TOTAL:                             24.0$
